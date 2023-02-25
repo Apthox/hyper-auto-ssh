@@ -1,0 +1,11 @@
+{
+    "name": "auto-ssh",
+    "version": "0.1",
+    "description": "automatically starts terminal session in ssh",
+    "main": "./index.js",
+    "keywords": [
+      "hyper"
+    ],
+    "author": "Kevin Guzman <kevinguzman8950@gmail.com>",
+    "license": "MIT"
+  }
